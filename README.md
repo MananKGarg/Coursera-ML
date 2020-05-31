@@ -1,6 +1,6 @@
 # Coursera ML
 
-Notes and assignments of Stanford Machine Learning Coursera.
+My Notes and Assignments of Stanford Machine Learning Coursera.
 
 ## Week 1
 
