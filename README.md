@@ -10,7 +10,7 @@ My Notes and Assignments of Stanford Machine Learning Coursera.
 
 * [Notes](https://github.com/MananKGarg/Coursera-ML/blob/master/Week%202.pdf)
 * [MATLAB OnRamp Certificate](https://github.com/MananKGarg/MATLAB/blob/master/certificate.pdf)
-* [Assignment]()
+* [Assignment](https://github.com/MananKGarg/Coursera-ML/tree/master/Assignment%201)
 
 ## Week 3
 
