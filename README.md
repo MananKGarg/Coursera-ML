@@ -16,3 +16,5 @@ My Notes and Assignments of Stanford Machine Learning Coursera.
 ## Week 3
 
 * [Notes](https://github.com/MananKGarg/Coursera-ML/blob/master/Week%203.pdf)
+* [Assignment Functions](https://github.com/MananKGarg/Coursera-ML/tree/master/Assignment%202)
+
